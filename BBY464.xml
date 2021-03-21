@@ -1,0 +1,207 @@
+<?xml version= "1.0" enciding= "UTF-8" ?>
+<bookstore>
+    <book category="Kültür">
+        <title>Sualtı Arkeolojisi & Temel Kavramlar, Yöntemler ve Araştırma Tarihçesi</title>
+        <author>Alper Gölbaş</author>
+        <publisher>Bilgin Kültür Sanat Yayınları</publisher>
+        <ISBN>9786257799140</ISBN>
+        <year>2021</year>
+        <price>48.75</price>
+        <URL>https://www.kitapyurdu.com/kitap/sualti-arkeolojisi-amp-temel-kavramlar-yontemler-arastirma-tarihcesi/569153.html&path=1_77_85</URL>
+    </book>
+    
+    <book category="Turizm - Gezi">
+        <title>Güney Afrika Gökkuşağı Ülkesi</title>
+        <author>Güliz Elal</author>
+        <publisher>Yeni İnsan Yayınevi</publisher>
+        <ISBN>9786057764577</ISBN>
+        <year>2021</year>
+        <price>20.40</price>
+        <URL>https://www.kitapyurdu.com/kitap/guney-afrika-amp-gokkusagi-ulkesi/570425.html&path=1_403</URL>
+    </book>
+    
+    <book category="Bilgisayar">
+        <title>Google Nasıl Yönetiliyor?</title>
+        <author>Jonathan Rosenberg</author>
+        <author>Eric Schmidt</author>
+        <publisher>Timaş Yayınları</publisher>
+        <ISBN>9786050819250</ISBN>
+        <year>2020</year>
+        <price>32.75</price>
+        <URL>https://www.kitapyurdu.com/kitap/google-nasil-yonetiliyor/375531.html&path=1_31</URL>
+    </book>
+    
+    <book category="Tarih">
+        <title>Bizans İmparatorluğu Tarihi</title>
+        <author>Charles William Chadwick Oman</author>
+        <publisher>Say Yayınları</publisher>
+        <ISBN>9786050207323</ISBN>
+        <year>2019</year>
+        <price>17.25</price>
+        <URL>https://www.kitapyurdu.com/kitap/bizans-imparatorlugu-tarihi/507985.html&path=1_41_60</URL>
+    </book>
+    
+    <book category="Bilim & Mühendislik">
+        <title>Neden Nasıl Düşünürüz? Etik, İnsan Doğası ve Beyin Üzerine Bir Tartışma</title>
+        <author>Jean - Pierre Changeux</author>
+        <author>Paul Ricoeur</author>
+        <publisher>Metis Yayınları</publisher>
+        <ISBN>9789753427180</ISBN>
+        <year>2021</year>
+        <price>34.89</price>
+        <URL>https://www.kitapyurdu.com/kitap/neden-nasil-dusunuruz-amp-etik-insan-dogasi-ve-beyin-uzerine-bir-tartisma/129764.html&path=1_236</URL>
+    </book>
+    
+    <book category="Şehir Kitapları">
+        <title>Bir Başkentin Anatomisi 1950'lerde Ankara</title>
+        <author>Dr. M. Nazmi Özalp</author>
+        <publisher>İdealkent Yayınları</publisher>
+        <ISBN>9786058381902</ISBN>
+        <year>2016</year>
+        <price>24.70</price>
+        <URL>https://www.kitapyurdu.com/kitap/bir-baskentin-anatomisi-amp-1950lerde-ankara/385912.html&path=1_456_466</URL>
+    </book>
+    
+    <book category="Din">
+        <title>İnformel Mantık</title>
+        <author>Prof.Dr. Cafer Sadık Yaran</author>
+        <publisher>Rağbet Yayınları</publisher>
+        <ISBN>9786054074716</ISBN>
+        <year>2018</year>
+        <price>15.84</price>
+        <URL>https://www.kitapyurdu.com/kitap/informel-mantik/249903.html&path=1_64_75</URL>
+    </book>
+    
+    <book category="Spor">
+        <title>Muhammed Ali - En Büyük Benim Hayat Hikayem</title>
+        <author>Muhammet Ali</author>
+        <author>Richard Durham</author>
+        <publisher>Kaknüs Yayınları</publisher>
+        <ISBN>9789756698341</ISBN>
+        <year>2017</year>
+        <price>44.28</price>
+        <URL>https://www.kitapyurdu.com/kitap/muhammed-ali--en-buyuk-benim-hayat-hikayem/400458.html&path=1_186_192</URL> 
+    </book>
+    
+    <book category="Edebiyat">
+        <title>Körlük</title>
+        <author>Jose Saramago</author>
+        <publisher>Kırmızı Kedi Yayınevi</publisher>
+        <ISBN>9786052980811</ISBN>
+        <year>2019</year>
+        <price>19.48</price>
+        <URL>https://www.kitapyurdu.com/kitap/korluk/426526.html&path=1_128</URL>
+    </book>
+    
+    <book category="Sosyoloji">
+        <title>Kentleşme ve Göç</title>
+        <author>Ahmet Koyuncu</author>
+        <publisher>Hikmetevi Yayınları</publisher>
+        <ISBN>9786053511649</ISBN>
+        <year>2015</year>
+        <price>22.50</price>
+        <URL>https://www.kitapyurdu.com/kitap/kentlesme-ve-goc/366540.html&path=1_415_418</URL>
+    </book>
+    
+    <book category="Eğitim">
+        <title>Köy Enstitüleri Nedir? Ne Değildir?</title>
+        <author>Ahmet Köklügiller</author>
+        <publisher>IQ Kültür Sanat Yayıncılık</publisher>
+        <ISBN>9789752554375</ISBN>
+        <year>2015</year>
+        <price>20.30</price>
+        <URL>https://www.kitapyurdu.com/kitap/koy-enstituleri-nedir-ne-degildir/383583.html&path=1_359_369</URL>
+    </book>
+    
+    <book category="Eğlence- Mizah">
+        <title>Simpsonlar - Makara Kukara</title>
+        <author>Matt Groening</author>
+        <publisher>Aylak Kitap</publisher>
+        <ISBN>9786055691875</ISBN>
+        <year>2013</year>
+        <price>33.75</price>
+        <URL>https://www.kitapyurdu.com/kitap/simpsonlar--makara-kukara/314116.html&path=1_371_373</URL>
+    </book>
+    
+    <book category="Siyaset">
+        <title>Lenin</title>
+        <author>Robert Service</author>
+        <publisher>Abis Yayınları</publisher>
+        <ISBN>9786056321757</ISBN>
+        <year>2014</year>
+        <price>42.90</price>
+        <URL>https://www.kitapyurdu.com/kitap/lenin/350108.html&path=1_98_117</URL>
+    </book>
+    
+    <book category="Ekonomi">
+        <title>Tarihsel Süreç İçnde Dünya Ekonomisi</title>
+        <author>Mahfi Eğilmez</author>
+        <publisher>Remzi Kitabevi</publisher>
+        <ISBN>9789751418760</ISBN>
+        <year>2019</year>
+        <price>16.39</price>
+        <URL>https://www.kitapyurdu.com/kitap/tarihsel-surec-icinde-dunya-ekonomisi/481304.html&path=1_380</URL>
+    </book>
+    
+    <book category="Sinema - Tiyatro">
+        <title>Sessiz Sinema Tarihi</title>
+        <author>Adnan Acar</author>
+        <publisher>Doruk Yayınları</publisher>
+        <ISBN>9789755536743</ISBN>
+        <year>2016</year>
+        <price>48.13</price>
+        <URL>https://www.kitapyurdu.com/kitap/sessiz-sinema-tarihi/412195.html&path=1_724_729</URL>
+    </book>
+    
+    <book category="Felsefe - Düşünce">
+        <title>Farabi ve İbn Sina</title>
+        <author>Şenol Korkut</author>
+        <publisher>Şenol Yayınları</publisher>
+        <ISBN>9786057901545</ISBN>
+        <year>2020</year>
+        <price>11.25</price>
+        <URL>https://www.kitapyurdu.com/kitap/farabi-ve-ibn-sina/504013.html&path=1_424_427</URL>
+    </book>
+    
+    <book category="Sanat">
+        <title>Sanat 101</title>
+        <author>Eric Grzymkowski</author>
+        <publisher>Say Yayınları</publisher>
+        <ISBN>9786050204322</ISBN>
+        <year>2020</year>
+        <price>20.70</price>
+        <URL>https://www.kitapyurdu.com/kitap/sanat-101/368135.html&path=1_172</URL>
+    </book>
+    
+    <book category="Hobi">
+        <title>Böcek Atlası</title>
+        <author>Fatih Dikmen</author>
+        <publisher>Taze Kitap</publisher>
+        <ISBN>9786059756006</ISBN>
+        <year>2017</year>
+        <price>41.60</price>
+        <URL>https://www.kitapyurdu.com/kitap/bocek-atlasi/436286.html&path=1_212_214</URL>
+    </book>
+    
+    <book category="Sağlık - Tıp">
+        <title>Niçin Uyuruz? Yeni Uyku ve Rüya Bilimi</title>
+        <author>Matthew Walker</author>
+        <publisher>Pegasus Yayınları</publisher>
+        <ISBN>9786052996300</ISBN>
+        <year>2019</year>
+        <price>38.99</price>
+        <URL>https://www.kitapyurdu.com/kitap/nicin-uyuruz-amp-yeni-uyku-ve-ruya-bilimi/499053.html&path=1_344</URL>
+    </book>
+    
+    <book category="Hukuk">
+        <title>Uluslararası Belgelerde Azınlık Hakları</title>
+        <author>Zeri İnanç</author>
+        <publisher>Ütopya Yayınevi</publisher>
+        <ISBN>9789756361115</ISBN>
+        <year>2004</year>
+        <price>26.00</price>
+        <URL>https://www.kitapyurdu.com/kitap/uluslararasi-belgelerde-azinlik-haklari/58646.html&path=1_248_254</URL>
+    </book>
+        
+</bookstore>
+    
